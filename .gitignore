@@ -1,0 +1,12 @@
+/venv/
+/.idea
+/__pycache__
+/*/__pycache__
+.vscode/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+t.py
+test.py
+ignore

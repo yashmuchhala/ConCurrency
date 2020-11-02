@@ -1,0 +1,34 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+cbor2 = "*"
+certifi = "*"
+chardet = "*"
+click = "*"
+ecdsa = "*"
+idna = "*"
+importlib-metadata = "*"
+itsdangerous = "*"
+jsonpickle = "*"
+pubnub = "*"
+pycryptodomex = "*"
+requests = "*"
+six = "*"
+urllib3 = "*"
+zipp = "*"
+scikit-learn = "*"
+Jinja2 = "*"
+MarkupSafe = "*"
+Werkzeug = "*"
+fastapi = "*"
+uvicorn = "*"
+
+[requires]
+python_version = "3.8"
